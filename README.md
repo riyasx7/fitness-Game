@@ -58,7 +58,7 @@ Installation
 To install and run the AI Fitness Tracking Game on your computer, follow these steps:
 
 
-Clone this repository to your local machine using git clone https://github.com/your-username/AI-Fitness-Tracking-Game.git.
+Clone this repository to your local machine using git clone https://github.com/riyasx7/fitness-Game.git
 
 Navigate to the project directory: cd AI-Fitness-Tracking-Game.
 
